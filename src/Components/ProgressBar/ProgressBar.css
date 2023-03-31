@@ -1,0 +1,20 @@
+.wrapper{
+    max-width: 324px;
+    color: rgba(255, 255, 255, 0.591);
+}
+.bar{
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+    width: 324px;
+    height: 80px;
+    position: relative;
+    margin: 20px 0px 35px;
+}
+.wrapper p:first-child{
+    text-align: left;
+    font-size: 36px;
+    font-weight: 700;
+    color: white;
+}
+.wrapper p:last-child{
+    position: relative;
+}

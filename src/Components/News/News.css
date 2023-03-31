@@ -1,0 +1,64 @@
+.news{
+    margin-top: 210px;
+    margin-bottom: 40px;
+}
+.news__title h1{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.news__title p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.5;
+    margin-top: 30px;
+}
+.news__email input{
+    margin-top: 60px;
+    width:353px;
+    height: 44px;
+    background: rgba(255, 255, 255,0.25);
+    border-radius: 50px 0px 0px 50px;   
+    padding-left: 30px;
+    color: white;
+}
+.news__email button{
+    width: 160px;
+    height: 44px;
+    position: relative;
+    right: 20px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: white;
+    padding: 10px 30px;
+    background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+    border-radius: 50px;
+    box-sizing: border-box;
+}
+.news__email input::placeholder{
+    color: rgb(255, 255, 255)
+}
+.news__socials{
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 133px;
+    padding-right: 133px;
+}
+.news__social{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+    border-radius: 50%;
+}

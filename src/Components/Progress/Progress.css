@@ -1,0 +1,25 @@
+.progress-bar__bars{
+    display: flex;
+}
+.progress-bar__header{
+    text-align: left;
+}
+.progress-bar__header p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 140%;
+    color: #FFFFFF;
+    margin-bottom: 49px;
+}
+.progress-bar__header h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #FFFFFF;
+    opacity: 0.5;
+    margin-bottom: 80px;
+}

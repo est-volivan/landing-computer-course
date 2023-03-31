@@ -1,0 +1,21 @@
+
+.button-rounded{
+    padding: 10px 30px;
+    border-radius: 50px;
+    color: white;
+    font-size: 16px;
+    line-height: 24px;
+}
+.intro nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav__links{
+    display: flex;
+    gap: 56px;
+    color: white;
+}
+nav .button-rounded{
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+}

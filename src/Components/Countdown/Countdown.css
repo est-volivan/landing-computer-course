@@ -1,0 +1,21 @@
+
+.timer{
+    display: flex;
+    justify-content: space-between;
+    width: 522px;
+    height: 120px;
+}
+.timer__state{
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 108px;
+    height: 120px;
+    color: rgba(255, 255, 255, .4);
+    background-color: rgb(45, 45, 45);
+}
+.timer__state span{
+    color:azure;
+    font-size: 36px;
+}

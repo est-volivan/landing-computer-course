@@ -1,0 +1,55 @@
+
+.button-rounded{
+    padding: 10px 30px;
+    border-radius: 50px;
+    color: white;
+    font-size: 16px;
+    line-height: 24px;
+}
+.progress{
+    display: flex;
+    align-items: center;
+    gap: 81px;
+    background-color: #121212;
+    padding-left: 312px;
+    height: 130px;
+}
+.progress .button-rounded{
+    background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+}
+.progress__info{
+    width: 250px;
+}
+.progress__info p{
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    color: white;
+}
+.progress__info p span:first-child{
+    font-size: 16px;
+    color: white;
+    opacity: 0.4;
+}
+.progress__info p:first-child{
+    margin-bottom: 10px;
+}
+.progress__line p{
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+    font-size: 16px;
+    color: white;
+}
+.progress__line p span:first-child{
+    opacity: 0.4;
+}
+.progress__line .progress__line__values{
+    width: 715px;
+}
+.progress__line .progress__line__values span:last-child{
+    opacity: 0.4;
+}
+.progress__line progress{
+    margin: 8px 0 5px;
+}

@@ -1,0 +1,38 @@
+.about{
+    display: flex;
+    gap: 180px;
+    margin-top: 296px;
+    margin-bottom: 231px;
+    align-items: center;
+}
+.about__text{
+    font-family: 'Roboto';
+    font-style: normal;
+    color: #FFFFFF;
+}
+.about__text p{
+font-weight: 700;
+font-size: 48px;
+line-height: 140%;
+text-align: left;
+margin-bottom: 45px;
+
+}
+.about__text h1{
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+text-align: left;
+max-width: 636px;
+
+}
+.about__img{
+    border: 35px solid;
+    border-image-source: linear-gradient(to left, #C89AFC 9.51%, #7C6AFA 90.23%);
+    border-image-slice: 1;
+    width: 526px;
+    height: 499px;
+    padding-top: 60px
+};
+
+

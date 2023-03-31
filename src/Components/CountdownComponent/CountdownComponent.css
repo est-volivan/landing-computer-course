@@ -1,0 +1,15 @@
+
+.intro__title h1{
+    color: white;
+    font-size: 64px;
+    line-height: 90px;
+    max-width: 920px;
+    font-weight: 700;
+}
+.intro__title{
+    margin: 190px 0 218px 232px;
+}
+.intro__title h1{
+    text-align: left;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,53 @@
+.teacher{
+    margin-top: 230px;
+}
+.teacher__title{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 140%;
+    color: #FFFFFF;
+    display: flex;
+    margin-bottom: 115px;
+}
+.teacher__title img{
+    position: relative;
+    bottom: 10px;
+    margin-right: 39px;
+    height: 44px;
+    width: 91px;
+}
+.teacher__portfolios{
+    width: 1350px;
+    display: flex;
+    justify-content: space-between;
+}
+.teacher__portfolio img{
+    margin-bottom: 40px;
+}
+.teacher__portfolio h4{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+.teacher__portfolio p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.8;
+    margin-bottom: 40px;
+}
+.teacher__portfolio button{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: white solid 1px;
+}
